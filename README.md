@@ -23,9 +23,9 @@ Cybersecurity Engineering student at **FCC BUAP**. I mostly build backends, and
 I'm learning how to break them.
 
 - 🛠️ Building **Chécalo**, a price-comparison app tracking ~1.8M supermarket products across Mexico
+- 🏴 Competing with **[52Sec](https://52sec.org)** in hackathons and CTFs, nationally and internationally, placing 🥇 **1st nationally · 🥉 3rd globally** at the HPE CDS Tech Challenge 25/26 in Madrid 🇪🇸
 - 🔐 Focused on **network and infrastructure security**, hardening the things I build rather than just shipping them
 - ⚡ Comfortable in Python and distributed systems; currently going deeper on offensive tooling
-- 🏴 Competing with **[52Sec](https://52sec.org)** in hackathons and CTFs, nationally and internationally
 
 ---
 
@@ -43,13 +43,14 @@ chains so shoppers can see where a full basket is cheapest.
 - **~1.8M products** indexed and refreshed from live chain data
 - Distributed scraping pipeline with cross-chain product matching
 - Backend complete end-to-end; ads + subscription monetization designed
+- **Closed source**. Commercial product, no public repo
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-<a href="https://checalo.mx"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Checalo website"/></a>
+<a href="https://checalo.mx"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Checalo website"/></a> <img src="https://img.shields.io/badge/closed%20source-6E7681?style=for-the-badge" alt="Closed source"/>
 
 </td>
 <td width="50%" valign="top">
@@ -85,5 +86,7 @@ Built with <a href="https://52sec.org">52Sec</a>
 
 ---
 
-![snake](https://raw.githubusercontent.com/damianbasilio/damianbasilio/output/github-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damianbasilio/damianbasilio/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/damianbasilio/damianbasilio/output/github-snake.svg">
+</picture>
