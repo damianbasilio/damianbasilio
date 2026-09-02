@@ -25,6 +25,7 @@ I'm learning how to break them.
 - 🛠️ Building **Chécalo**, a price-comparison app tracking ~1.8M supermarket products across Mexico
 - 🔐 Focused on **network and infrastructure security**, hardening the things I build rather than just shipping them
 - ⚡ Comfortable in Python and distributed systems; currently going deeper on offensive tooling
+- 🏴 Competing with **[52Sec](https://52sec.org)** in hackathons and CTFs, nationally and internationally
 
 ---
 
