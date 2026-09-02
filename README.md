@@ -10,7 +10,7 @@ I build systems, mobile & web apps.
 
 ### Stack
 
-![stack](https://skillicons.dev/icons?i=python,docker,postgres,react,swift,html,css&theme=dark)
+![stack](https://skillicons.dev/icons?i=python,docker,postgres,react,swift,html,css)
 
 ---
 
