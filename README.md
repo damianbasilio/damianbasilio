@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Damian
 
-<!--
-**damianbasilio/damianbasilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer & Cybersecurity Student • Puebla, MX 🇲🇽
 
-Here are some ideas to get you started:
+I build systems, mobile & web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://damianbasilio.dev) • [Linkedin](https://linkedin.com/in/damianbasilio) • [Email](mailto:damian.basilio@icloud.com)
+
+---
+
+### Stack
+
+![Stack](https://skillicons.dev/icons?i=python,docker,postgres,react,swift,html,css&theme=dark)
+
+---
+
+![snake](https://raw.githubusercontent.com/damianbasilio/damianbasilio/output/github-snake-dark.svg)
+
+
+
