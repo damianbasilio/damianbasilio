@@ -65,12 +65,12 @@ and drone fleets.
 - Live dispatch dashboard with dynamic ETAs and OSRM routing
 - LLM assistant + historical replay of any past incident window
 
+Built with <a href="https://52sec.org">52Sec</a>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-Built with <a href="https://52sec.org">52Sec</a>
 
 <a href="https://github.com/damianbasilio/HPE_Final"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="HPE_Final repo"/></a>
 
