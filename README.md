@@ -19,9 +19,5 @@
 
 ---
 
-![Top Languages](https://ghstats.dev/api/langs?username=damianbasilio&max_langs=5)
-
----
-
 ![snake](https://raw.githubusercontent.com/damianbasilio/damianbasilio/output/github-snake-dark.svg)
 
