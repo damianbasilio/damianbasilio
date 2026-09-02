@@ -1,7 +1,7 @@
 <div align="center">
   
   # Hi, I'm Damian Basilio
-  ### Software Developer & Cybersecurity Student • Puebla, MX 🇲🇽
+  ### Software Developer & Cybersecurity Engineering Student • Puebla, MX 🇲🇽
   
 </div>
 
